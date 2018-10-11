@@ -1,2 +1,2 @@
-clone
+master push
 test LF
